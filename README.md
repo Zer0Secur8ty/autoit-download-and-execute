@@ -10,7 +10,7 @@ AutoIT Download and Execute is a script that automates the process of downloadin
 - Fully customizable
 
 ## Requirements
-- Windows OS
+- Windows OS  or wine for Linux and OSX
 - [AutoIT](https://www.autoitscript.com/site/autoit/) installed
 
 ## Installation & Usage
